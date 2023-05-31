@@ -144,6 +144,7 @@ const Home = () => {
       alignItems={'center'}
       h={'100%'}
       overflow={'overlay'}
+      background={`url('https://storage.mzc77.com/storagee/dmgpt/imgs/bj.jpg') center/cover`}
     >
       <Box id={'particles-js'} position={'absolute'} top={0} left={0} right={0} bottom={0} />
 
