@@ -85,7 +85,7 @@ const Login = () => {
       >
         {isPc && (
           <Image
-            src={'/icon/denglu.png'}
+            src={'https://imgse.com/i/p9OZ1kn'}
             order={pageType === PageTypeEnum.login ? 0 : 2}
             flex={'1 0 0'}
             w="0"
