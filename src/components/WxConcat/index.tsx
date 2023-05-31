@@ -31,7 +31,7 @@ const WxConcat = ({ onClose }: { onClose: () => void }) => {
           <Box mt={2}>
             微信号:
             <Box as={'span'} userSelect={'all'}>
-              xiaodongbiu
+              15669002911
             </Box>
           </Box>
         </ModalBody>

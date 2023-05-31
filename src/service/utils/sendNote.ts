@@ -19,19 +19,19 @@ const mailTransport = nodemailer.createTransport({
 
 const emailMap: { [key: string]: any } = {
   [UserAuthTypeEnum.register]: {
-    subject: '感谢使用DMGpt AI知识库',
-    html: (code: string) => `<div>您正在注册 DM-GPT 账号，验证码为：${code} 请勿泄露您的验证码</div>`
+    subject: '感谢使用xiaobaiwu-Gpt AI知识库',
+    html: (code: string) => `<div>您正在注册 xiaobaiwu-GPT 账号，验证码为：${code} 请勿泄露您的验证码</div>`
   },
   [UserAuthTypeEnum.findPassword]: {
-    subject: '修改 DMGpt AI知识库账号密码',
-    html: (code: string) => `<div>您正在修改 DMGpt AI知识库账号密码，验证码为：${code} 请勿泄露您的验证码！</div>`
+    subject: '修改 xiaobaiwu-Gpt AI知识库账号密码',
+    html: (code: string) => `<div>您正在修改 xiaobaiwu-Gpt AI知识库账号密码，验证码为：${code} 请勿泄露您的验证码！</div>`
   }
 };
 
 export const sendEmailCode = (email: string, code: string, type: `${UserAuthTypeEnum}`) => {
   return new Promise((resolve, reject) => {
     const options = {
-      from: `"DM-GPT AI知识库" ${myEmail}`,
+      from: `"xiaobaiwu-GPT AI知识库" ${myEmail}`,
       to: email,
       subject: emailMap[type]?.subject,
       html: emailMap[type]?.html(code)

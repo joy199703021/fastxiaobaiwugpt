@@ -1,20 +1,20 @@
 ## 欢迎使用DM-Gpt AI知识库
 
-### 关于DM-Gpt AI知识库
+### 关于xiaobaiwu-Gpt AI知识库
 
-DM-Gpt AI知识库，快速搭建属于自己的AI知识库网站,将自己的知识库和GPT进行结合，
-DM-Gpt允许使用自己的 openai API KEY 来快速的调用 openai 接口，可构建自己的知识库。
-DM-Gpt支持将 DM-Gpt 的部分功能通过 api 的形式接入到自己的应用中，例如：飞书、企业微信、客服助手。
+xiaobaiwu-Gpt AI知识库，快速搭建属于自己的AI知识库网站,将自己的知识库和GPT进行结合，
+xiaobaiwu-Gpt允许使用自己的 openai API KEY 来快速的调用 openai 接口，可构建自己的知识库。
+xiaobaiwu-Gpt支持将 DM-Gpt 的部分功能通过 api 的形式接入到自己的应用中，例如：飞书、企业微信、客服助手。
 企业需要搭建自己的AI 知识库，可以添加下方的微信进行部署咨询！
 
-### DM-Gpt可以做什么
+### xiaobaiwu-Gpt可以做什么
 
 1.广告文案、短视频文案、朋友圈文案
 2.写代码、写文案、写文章，写小说
 3.文案润色、翻译、写诗作词
 4.扮演面试官、扮演书籍电影角色
 5.陪聊倾诉、解忧、讲故事、AI朗读
-DM-GPT 自建AI 应用，预设多种场景，满足生活，工作学习使用。
+xiaobaiwu-GPT 自建AI 应用，预设多种场景，满足生活，工作学习使用。
 
 ### 开始使用知识库
 
@@ -37,15 +37,14 @@ DM-GPT 自建AI 应用，预设多种场景，满足生活，工作学习使用�
 
 ### 支持我们
 
-本站由"麦资网"团队开发运营，麦资网-一个专注于资源分享，互联网学习的网站。
-- [麦资网](https://www.mzc77.com/)
-- [好课易学](https://www.mzc77.com/)
+本站由"施老师小黑屋"团队开发运营，施老师的小黑屋-一个专注于教育行业运营管理知识内容分享。
+- [施老师的小黑屋](https://mp.weixin.qq.com/s/-HXYGp_seCI9MGOMPxJjzw/)
 
 ### 问题反馈/添加微信
 
 网站使用遇到问题，请进行问题反馈。
 私有化部署，内容修改可添加微信。
 
-| 问题反馈/更多内容         | 添加客服微信     |
-| ----------------------- | -------------------- |
-| ![Demo](https://storage.mzc77.com/storagee/dmgpt/imgs/gengduobangzhu.png) |![Demo](https://storage.mzc77.com/storagee/dmgpt/imgs/wxxiaoerlang.png) |
+| 问题反馈/更多内容         | 
+| ----------------------- | 
+| ![](/imgs/wxxiaoerlang.png) |
